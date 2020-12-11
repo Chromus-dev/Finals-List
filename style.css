@@ -51,10 +51,12 @@ h1 {
 }
 /* Flex Container */
 .optionsGrid {
-	max-width: 50%;
+	max-width: 80%;
 	margin: 0 auto;
 	display: flex;
 	align-items: center;
+	/* Center On Screen */
+	left: 50%;
 }
 
 .option {
